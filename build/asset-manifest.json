@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ca1d768.css",
+    "main.js": "/static/js/main.5b7b4da3.js",
+    "static/js/787.aa11c418.chunk.js": "/static/js/787.aa11c418.chunk.js",
+    "static/media/gandhiBhavan.png": "/static/media/gandhiBhavan.dc4c6d01c06982acdc73.png",
+    "static/media/uiet-logo.png": "/static/media/uiet-logo.49d504133e3888b0fdca.png",
+    "static/media/mazzard-h-black.otf": "/static/media/mazzard-h-black.72626fd13dd76c00bab0.otf",
+    "static/media/Fontspring-DEMO-resist_mono_bold.otf": "/static/media/Fontspring-DEMO-resist_mono_bold.fc2fc8925ac0fbb50e55.otf",
+    "index.html": "/index.html",
+    "main.7ca1d768.css.map": "/static/css/main.7ca1d768.css.map",
+    "main.5b7b4da3.js.map": "/static/js/main.5b7b4da3.js.map",
+    "787.aa11c418.chunk.js.map": "/static/js/787.aa11c418.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ca1d768.css",
+    "static/js/main.5b7b4da3.js"
+  ]
+}
