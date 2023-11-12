@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@700;800&family=Russo+One&family=Staatliches&display=swap");
+@font-face {
+  font-family: resist;
+  src: url(../fonts/Fontspring-DEMO-resist_mono_bold.otf);
+}
+@font-face {
+  font-family: mazzard;
+  src: url(../fonts/mazzard-h-black.otf);
+}
+
+.c2 {
+  width: 33.33vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.c2 img {
+  width: 8rem;
+  margin-top: 160px;
+}
+
+.uiet {
+  color: #fff;
+  font-family: mazzard;
+  text-align: center;
+  font-size: 4rem;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}

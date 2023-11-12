@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .container {
+    background-image: url(../gandhiBhavan.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .main {
+    display: flex;
+    flex-direction: row;
+  }
+  
